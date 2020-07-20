@@ -1,1 +1,3 @@
-# ixmp_workflow_utils
+# IXMP application workflow utilities
+
+
